@@ -32,5 +32,7 @@
 <a href="https://2some.one/">2SOMEone 项目链接</a>
 - ![](https://img.shields.io/badge/Solutionlab-Legal_Advice_WeChat_Mini_Program-blue)
 <a href=" https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkxNTY1ODg5MA==">办法 - 一个法律咨询小程序</a>
+- ![](https://img.shields.io/badge/Star_Rail_Reshader-Pseudo_light_chase_renderer-red)
+<a href="https://github.com/LingChen-tsjmdlc/Star-Rail-s_ReShade_Documentation">一个基于 ReShader 的《崩坏：星穹铁道》伪光追渲染器</a>
 - ![](https://img.shields.io/badge/AutoBlenderRenderer-Blender_crash_proof_auto_renderer-orange)
 <a href="https://github.com/LingChen-tsjmdlc/check_the_Blender_program_is_running">【待完善】一个防止 Blender 长时间渲染而造成崩溃的自动渲染器</a>
