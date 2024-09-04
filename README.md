@@ -2,13 +2,13 @@
 <pre align="center">
     💼 Web Front-End Development • Mini Program Development
     💻 slightly quiet • with power supply • with network
-    🎮 Music • Gaming • two-dimensional element • Vtuber • Cute Things • Social Trends • Technical • AI
+    🧡 Music • Gaming • two-dimensional element • Vtuber • Cute Things • Social Trends • Technical • AI
     🤬 draw • athletics • motor racing •personal stories.
   <br/>
     💼 Web前端开发 • 小程序开发
     💻 略微安静 • 带电源 • 带网络
-    🎮 音乐 • 游戏 • 二次元 •  Vtuber • 可爱的东西 • 社会趋势 • 技术 • 人工智能
-    🤬 绘画 • 田径 • 赛车 • 个人故事
+    🧡 音乐 • 游戏 • 二次元 •  Vtuber • 可爱的东西 • 社会趋势 • 技术 • 人工智能
+    🤬 绘画 • 运动 • 汽车 • 个人故事
 </pre>
 
 
